@@ -1,0 +1,84 @@
+
+body{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  
+}
+.content {
+    /* width: 320px; */
+    font-size: 27px;
+    color: #000000;
+    border: 1px solid #888;
+    margin: 20px auto;
+    padding: 10px;
+    background: #FFF;
+    line-height: 17px;
+    font-family:norm;
+    }
+    .logo{
+      text-align: center;
+    }
+    .logoo{
+      text-align: center;
+    }
+    .linee{
+     width: 280px;
+      border: 1px solid;
+    }
+    .line{
+       border: 1px solid;
+     }
+     .lines{
+      border: 1px dashed;
+    }
+    .title-invoice{
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 25px;
+    }
+    .section-6 h6{
+      text-align: center;
+      font-weight: bold;
+    }
+    .sec-coler{
+      /* background-color: rgb(223, 221, 219); */
+      padding-top: 0px;
+      margin: 0;
+    }
+  .col-3{
+      text-align: center;
+  }
+    .col-2 {
+      text-align: center;
+    }
+    p {
+      margin-top: 0;
+      margin-bottom: 0.2rem !important;
+      font-size: 9px !important;
+      font-weight: bold;
+      font-size: 16px !important;
+  }
+  .section-4{
+    padding-top: 5px;
+  }
+  span{
+    font-weight: bold;
+  }
+  h5{
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .center{
+    text-align: center;
+  }
+  @font-face {
+    font-family:norm;
+    src:url("bein-ar-normal.ttf");
+  }
+
+
+
+
+
