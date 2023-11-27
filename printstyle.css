@@ -63,9 +63,20 @@ body{
     p {
       margin-top: 0;
       margin-bottom: 0.2rem !important;
-      font-size: 10px !important;
       font-weight: bold;
-    
+      font-size: 10px !important;
+  }
+  @media (max-width:800px) {
+    p{
+      font-size: 10px !important;
+
+    }
+  }
+  @media (min-width:900px) {
+    p{
+      font-size: 16px !important;
+
+    }
   }
   .section-4{
     padding-top: 5px;
