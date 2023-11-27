@@ -15,7 +15,7 @@ body{
     font-size: 27px;
     color: #000000;
     border: 1px solid #888;
-    margin: 20px auto;
+  
     padding: 10px;
     background: #FFF;
     line-height: 17px;
@@ -28,6 +28,7 @@ body{
     .logoo{
       text-align: center;
     }
+    
     .linee{
      width: 280px;
       border: 1px solid;
