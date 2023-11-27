@@ -1,9 +1,14 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500&display=swap');
 body{
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  
+  font-family: 'Cairo', sans-serif !important;
+}
+.row{
+  margin-left: 0px;
+  margin-right: 0px;
 }
 .content {
     /* width: 320px; */
@@ -15,6 +20,7 @@ body{
     background: #FFF;
     line-height: 17px;
     font-family:norm;
+    font-family: 'Cairo', sans-serif !important;
     }
     .logo{
       text-align: center;
@@ -36,7 +42,7 @@ body{
       text-align: center;
       font-weight: bold;
       font-size: 20px;
-      line-height: 25px;
+      line-height: 20px;
     }
     .section-6 h6{
       text-align: center;
@@ -56,9 +62,9 @@ body{
     p {
       margin-top: 0;
       margin-bottom: 0.2rem !important;
-      font-size: 9px !important;
+      font-size: 11px !important;
       font-weight: bold;
-      font-size: 16px !important;
+    
   }
   .section-4{
     padding-top: 5px;
