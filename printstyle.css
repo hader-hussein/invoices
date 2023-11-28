@@ -1,10 +1,12 @@
 
 @font-face{font-family:"calibri-bold";
-  src:url("https://www.dafontfree.net/data/46/c/63710/calibrib.ttf") 
-  format("woff"),url("https://www.dafontfree.net/data/46/c/63710/calibrib.ttf") 
-  format("opentype"),url("https://www.dafontfree.net/data/46/c/63710/calibrib.ttf")
+  src:url("./font/calibrib.ttf") 
+  format("woff"),url("./font/calibrib.ttf") 
+  format("opentype"),url("./font/calibrib.ttf")
   
-  format("truetype");}
+  format("truetype");
+  font-weight: bold;
+}
 
 body{
   box-sizing: border-box;
@@ -80,7 +82,7 @@ body{
   }
   @media (min-width:900px) {
     p{
-      font-size: 16px !important;
+      font-size: 18px !important;
 
     }
   }
